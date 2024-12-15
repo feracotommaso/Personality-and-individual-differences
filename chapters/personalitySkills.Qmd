@@ -1,6 +1,6 @@
 ---
-title: "Psicologia della personalità e delle differenze individuali"
-subtitle: "Materiali integrativi al corso"
+title: "Personality skills"
+subtitle: "Competenze SEB, soft skills, life skills e altro"
 author: "Tommaso Feraco"
 include-in-header: assets/header.html
 format: 
