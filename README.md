@@ -4,5 +4,5 @@ This is a GitHub repository that supports the course *Psicologia della Personali
 
 These materials are updated continuously, so please download them and check for updates.
 
-Find the course website at **<a href="https://enricotoffalini.github.io/Basics-R/" target="_blank">https://enricotoffalini.github.io/Basics-R/</a>**
+Find the course website at **<a href="https://tferaco93.github.io/Personality-and-individual-differences/" target="_blank">https://tferaco93.github.io/Personality-and-individual-differences/</a>**
 
