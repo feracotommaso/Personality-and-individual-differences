@@ -28,6 +28,12 @@ Il corso di Psicologia della Personalità e delle Differenze Individuali sarà t
 
 Questo corso è parte integrante del corso di laurea in [Scienze psicologiche dello sviluppo, della personalità e delle relazioni interpersonali](https://www.psicologia.unipd.it/offerta-didattica/corsi-di-laurea/?tipo=L&ordinamento=2023&key=PS2295).
 
+## Materiali
+
+Puoi trovare qui i materiali aggiuntivi per il corso:
+
+-   **Personality skills** - [html](https://tferaco93.github.io/Personality-and-individual-differences/chapters/personalitySkills.html){target="_blank"} - [pdf](Slides/0.GettingStartedR.pdf){target="_blank"}
+
 The primary resource for the course is the online book available on GitHub: [***Introduction2R** (English edition)*](https://psicostat.github.io/Introduction2R_EN/){target="_blank"}.
 
 ### Getting Started
