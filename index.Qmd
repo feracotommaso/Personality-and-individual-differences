@@ -34,6 +34,8 @@ Puoi trovare qui i materiali aggiuntivi per il corso:
 
 -   **Personality skills** - [html](https://tferaco93.github.io/Personality-and-individual-differences/chapters/personalitySkills.html){target="_blank"} - [pdf](Slides/0.GettingStartedR.pdf){target="_blank"}
 
+prova ad aggiornare
+
 The primary resource for the course is the online book available on GitHub: [***Introduction2R** (English edition)*](https://psicostat.github.io/Introduction2R_EN/){target="_blank"}.
 
 ### Getting Started
