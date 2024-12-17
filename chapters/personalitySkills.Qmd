@@ -1,8 +1,9 @@
 ---
 title: "Personality skills"
-subtitle: "Competenze SEB, soft skills, life skills e altro"
+subtitle: "Soft skills, personality skills, SEB skills, life skills e altri mostri"
 author: "Tommaso Feraco"
-include-in-header: assets/header.html
+bibliography: references.bib
+# include-in-header: assets/header.html
 format: 
   html:
     self-contained: true
@@ -15,7 +16,118 @@ format:
 editor: visual
 ---
 
-Il corso di Psicologia della Personalità e delle Differenze Individuali sarà tenuto da Tommaso Feraco e Giovanna Mioni.
+# **Soft (personality) skills: definizione, tipologie e modelli teorici**
+
+Le soft skill, spesso chiamate competenze trasversali o non tecniche, rappresentano un insieme variegato di abilità personali che possono differire in base alle definizioni, ai contesti di applicazione e ai modelli teorici utilizzati per analizzarle.
+
+## Definizioni
+
+### Una prima approssimazione
+
+Negli ultimi anni, l'interesse per le caratteristiche individuali che favoriscono il successo nella vita quotidiana, negli studi e nella carriera è cresciuto notevolmente [@duckworth_measurement_2015; @heckman_hard_2012; @soto_taking_2021]. Queste caratteristiche sono state descritte con termini diversi [@abrahams_social-emotional_2019; @park_tripartite_2017]: "competenze non cognitive" per distinguerle dalle abilità mentali più tradizionali come l'intelligenza; "soft skill" per differenziarle dalle "hard skills", ossia competenze tecniche necessarie per svolgere mansioni specifiche, come la programmazione informatica [@heckman_hard_2012]; "punti di forza del carattere" per evidenziarne il valore positivo a livello sociale [@peterson_character_2004]; o ancora "competenze del XXI secolo", espressione che richiama l'importanza di queste abilità in un mercato del lavoro moderno e in continua trasformazione.
+
+Ogni termine propone un taglio particolare delle competenze trasversali. Ad esempio, nei contesti lavorativi l'accento è posto sulla capacità di adattarsi ai cambiamenti e alle nuove esigenze professionali, come la creatività, la flessibilità e l'apprendimento permanente (*life-long learning*), elementi chiave per sostenere l'innovazione tecnologica e il benessere personale. In ambito educativo, invece, ci si concentra su competenze che influenzano il rendimento accademico e il benessere emotivo, come la gestione delle emozioni, il pensiero critico e la risoluzione dei problemi.
+
+Nonostante le differenze terminologiche e metodologiche, le soft skill condividono alcune caratteristiche fondamentali. In primo luogo, vengono generalmente definite come abilità non tecniche che riflettono aspetti della personalità, del comportamento sociale e della capacità di costruire relazioni efficaci [@stewart_mixed_2016]. In secondo luogo, sono considerate competenze sviluppabili attraverso esperienze quotidiane, attività extrascolastiche e hobby come lo sport o la musica [@feraco_social_2023; @feraco_soft_2022; @robles_executive_2012]. Infine, le soft skill sono per definizione trasferibili: una volta acquisite, possono essere applicate in diversi contesti per rispondere a una varietà di sfide e richieste [@pellegrino_education_2012].
+
+Un esempio pratico è rappresentato dalla capacità di lavorare in squadra, che può essere sviluppata attraverso attività sportive e risultare poi cruciale durante lo studio, l'università o la carriera professionale. Al contrario, una competenza tecnica specifica (*hard*), come la programmazione informatica, potrebbe facilitare l'inserimento in un determinato ruolo lavorativo ma non trovare applicazione in situazioni familiari o sociali.
+
+In sintesi, le soft skill possono essere definite come quelle qualità individuali che migliorano la capacità di adattarsi agli altri, affrontare le sfide e rispondere in modo efficace alle richieste dell'ambiente circostante [@feraco_integrated_2023], facilitando così il raggiungimento del successo personale in molteplici ambiti.
+
+Ma cosa può differenziare le soft skill da un tratto di personalità, se così definite? Ricordando che i tratti di personalità definiscono come una persona risponde -tendenzialmente- agli stimoli ambientali, a livello comportamentale, emotivo e di pensiero, praticamente non cambia niente [@soto_taking_2021] tranne il fatto che la skill sottolinea un estremo del tratto -quello utile- e non il tratto nella sua interezza. Ad esempio, essere molto coscienziosi è bene in quanto ci porta al successo [@roberts_personality_2022], mentre esserlo poco significa essere generalmente disorganizzati e inaffidabili, quindi male, quindi non skill.
+
+Può quindi bastare questa definizione? Sarete d'accordo con me che no, non basta.
+
+### Social, emotional, and behavioral skills. Una nuova prospettiva
+
+Soto e colleghi [-@soto_taking_2021] definiscono le competenze sociali, emotive e comportamentali (Social, Emotional e Behavioral, SEB, dall’inglese) come l’insieme di abilità che consentono agli individui di instaurare e mantenere relazioni positive, regolare le proprie emozioni e gestire comportamenti finalizzati al raggiungimento di obiettivi personali e di apprendimento.
+
+Dall’analisi delle molteplici tassonomie esistenti sulle soft skill (oltre cento, vedi: <http://exploresel.gse.harvard.edu/>) , hanno elaborato un quadro teorico ampio e integrato, rilevando che molte competenze risultano condivise tra diversi modelli concettuali (ad esempio, l’adattabilità può essere indicata anche come flessibilità o elasticità a seconda del contesto teorico). Un aspetto centrale del loro lavoro è la netta distinzione tra le abilità pratiche, ossia le *skill* vere e proprie, e le inclinazioni o preferenze comportamentali di base, cioè i tratti di personalità. Da un lato, infatti, troviamo le predisposizioni individuali che tendono a stabilire come una persona si comporterà in circostanze diverse (pensiamo a una persona timida, il cui comportamento risulta generalmente coerente in vari contesti); dall’altro, abbiamo le abilità che l’individuo può esprimere quando la situazione lo richiede. Ad esempio, uno studente può essere chiamato a sostenere un esame orale o a presentare un lavoro di gruppo: è in queste situazioni che entrano in gioco le competenze SEB, ovvero ciò che l’individuo *sa fare* o può apprendere per rispondere alle richieste del contesto.
+
+Le competenze SEB possono essere considerate come una “cassetta degli attrezzi” a disposizione della persona: strumenti che possono essere utilizzati o sviluppati con l’esperienza e la pratica, senza modificare o corrispondere necessariamente alle preferenze comportamentali di base [@ringwald_more_2023]. Prendiamo ad esempio un individuo che tende a preferire l’isolamento e a non cercare interazioni sociali. In situazioni specifiche, come una presentazione in pubblico o un lavoro di gruppo, questa persona dovrà superare la propria inclinazione naturale e applicare abilità come il *public speaking* (gestione della voce, della postura e della mimica) per rispondere in modo efficace alla richiesta. Lo stesso principio vale al contrario: una persona molto socievole potrebbe dover contenere impulsi e mantenere l’autocontrollo in contesti più strutturati, come durante una lezione frontale.
+
+In sintesi, le competenze SEB (e le soft skill più in generale) sono abilità flessibili che possono essere apprese e perfezionate, indipendentemente dalle disposizioni personali innate. Questo le rende estremamente utili per affrontare situazioni complesse o sfide specifiche.
+
+#### I cinque domini delle competenze SEB
+
+Entrando nel dettaglio, Soto e colleghi [-@soto_taking_2021] hanno proposto una classificazione teorica delle soft skill, raggruppandole in cinque macrodomini principali, all’interno dei quali sono incluse 32 competenze specifiche (si veda @fig-bessiModel). Ogni cerchio nella figura rappresenta un dominio, che raggruppa competenze affini per scopi funzionali: alcune risultano più rilevanti in ambito sociale (come le capacità di interazione), mentre altre sono cruciali per compiti creativi (come le capacità di innovazione). I cinque macrodomini sono:
+
+-   **Capacità di interazione**: includono le abilità necessarie per interagire attivamente con altre persone, come la leadership e la persuasione.
+
+-   **Capacità di cooperazione**: si riferiscono alle abilità utili per costruire e mantenere relazioni sociali positive, come la collaborazione e l’empatia.
+
+-   **Capacità di autogestione**: riguardano le competenze per organizzarsi, prendere decisioni e perseguire obiettivi, come la costanza, la gestione del tempo e il decision-making.
+
+-   **Capacità di regolazione emotiva**: si riferiscono alle abilità per controllare emozioni e stati d’animo, come la gestione dello stress e l’ottimismo.
+
+-   **Capacità di innovazione**: includono competenze utili per affrontare esperienze e idee nuove, come la creatività e l’interculturalità.
+
+[![Rappresentazione del modello SEB](images/bessiModel.PNG){#fig-bessiModel}](modelloBessi)
+
+##### Competenze interstiziali e trasversali
+
+Nella classificazione proposta, la maggior parte delle competenze SEB è attribuita a uno dei cinque domini. Tuttavia, quattro competenze, dette *interstiziali*, condividono caratteristiche di più domini, con l’autogestione come elemento comune. Ad esempio, la *resistenza alle tentazioni* rientra sia nelle competenze di regolazione emotiva (per gestire la frustrazione derivante da una gratificazione immediata mancata) sia nell’autogestione (per inibire impulsi e mantenere la concentrazione su obiettivi a lungo termine). Pensiamo a uno studente che, pur stanco o distratto da un invito degli amici, decide di completare il proprio piano di studio prima di concedersi una pausa.
+
+Infine, esistono tre competenze definite *trasversali*, in quanto non riconducibili a un dominio specifico: l’adattabilità, l’autonomia e l’introspezione. Queste abilità sono più generali e applicabili in contesti molto diversi.
+
+Nonostante questa organizzazione in domini e categorie, ogni singola abilità mantiene la propria unicità e specificità. Pertanto, in interventi educativi, programmi di ricerca o lezioni, si può scegliere se focalizzarsi su macrogruppi di competenze o approfondire singole abilità.
+
+Per ulteriori dettagli sulle 32 competenze SEB, si rimanda al sito ufficiale: <http://www.sebskills.com>.
+
+In conclusione, le soft skill rappresentano un insieme di qualità individuali che permettono alle persone di adattarsi efficacemente agli altri, affrontare con successo le sfide e rispondere in modo proattivo alle richieste dell’ambiente circostante, contribuendo così a favorire il successo personale in contesti diversi. Queste però non corrispondono a come la persona tende a comportarsi di solito, ma ci assomigliano molto.
+
+#### Similitudini tra tratti e skill
+
+Come forse avrete già notato, individuiamo 5 macrodomini di competenze. Cinque. Proprio come i Big Five. Coincidenze? Io non credo.
+
+La corrispondenza è infatti ovvia e insita nel modello di riferimento. Soto e colleghi raggruppano volontariamente le skill sulla base dei Big Five. Se ci pensiamo bene infatti i Big Five dovrebbero rappresentare e categorizzare, nel modo più generale, il maggior numero possibile di comportamenti che una persona può mettere in atto. Ad ogni comportamento, come ad esempio parlare con gli altri (estroversione), può però essere associata anche una corrispettiva abilità, come **saper** parlare con gli altri in modo efficace (interazione sociale). Usare il Big Five è quindi un ottimo modo per individuare e categorizzare anche le skill possibili.
+
+|      Tratto       |             Skill              |
+|:-----------------:|:------------------------------:|
+| Apertura mentale  |     Abilità di innovazione     |
+|  Coscienziosità   |    Abilità di autogestione     |
+|   Estroversione   | Abilità di interazione sociale |
+|     Amicalità     |    Abilità di cooperazione     |
+| Stabilità emotiva | Abilità di regolazione emotiva |
+
+: Corrispondenza tra skill e tratti
+
+Oltre che teoricamente, le due caratteristiche vanno anche a braccetto nella stessa persona. Se infatti pensiamo a una persona che gioca a calcio tutti i giorni, ci immaginiamo che sia anche brava a farlo. Allo stesso modo, una persona molto estroversa, che parla con tutti, sta al centro dell'attenzione, ama le situazioni socialmente stimolanti, imparerà, piano piano, ad attuare questi comportamenti in modo ottimale. Viceversa, una persona molto brava a giocare a calcio, per talento o fortuna, probabilmente giocherà spesso e volentieri a calcio. Così una persona molto brava a regolare le proprie emozioni quando vuole, tenderà a farlo spesso, risultando più stabile emotivamente (meno nevrotica). Lo stesso esempio può essere fatto per ogni skill e ogni tratto.
+
+Ricordiamo però che, nonostante le due cose siano molto correlate (si veda @fig-SebBf), tratti e skill possono anche non corrispondere all'interno della stessa persona. Abbiamo quindi persone molto introverse, a cui non piace mettersi al centro dell'attenzione e che raramente iniziano loro sponte a parlare con degli sconosciuti, che però sono molto brave a parlare in pubblico, se necessario. Certo, probabilmente non si offriranno volontarie per farlo in un lavoro di gruppo, ma se dovessero, se la caverebbero comunque molto bene.
+
+[![Correlazione tra skill e tratti](images/corSebBf.png){#fig-SebBf}](correlazioneSebBf)
+
+Come si vede dall'immagine, le correlazioni tra i tratti corrispondenti sono molto alte a indicare che, con gli attuali metodi di misurazione, facciamo fatica a distinguere tra una e l'altra. Nonostante questo però, sappiamo che una correlazione non perfetta, prevede comunque che ci siano persone con punteggi molto alti in una variabile ma bassi o medi nell'altra (si veda @fig-diffCor).
+
+```{r fig-diffCor, echo=FALSE, warning=FALSE,message=FALSE, fig.height=4, fig.width=4, fig.cap="Individui (in rosso) con differenti punteggi di skill e tratto data una correlazione di .69"}
+d = MASS::mvrnorm(n = 500, mu = c(0,0), Sigma = matrix(c(1,.69,.69,1),ncol = 2),
+                  empirical = TRUE)
+d = data.frame(d)
+colnames(d) = c("Interazione_sociale", "Estroversione")
+d$diff <- abs(d$Interazione_sociale-d$Estroversione) 
+
+ggplot2::ggplot(data = d, ggplot2::aes(x = Interazione_sociale,
+                                       y = Estroversione,
+                                       color = diff)) +
+  ggplot2::geom_point() +
+  ggplot2::geom_smooth(method = "lm") +
+  ggplot2::scale_color_gradient(low="lightblue", high="red")+
+  ggplot2::guides(color = FALSE) +
+  ggplot2::geom_vline(xintercept = 0) +
+  ggplot2::geom_hline(yintercept = 0) +
+  ggplot2::annotate("text", x = 1.5, y = -2.5, label = "Alta skill basso tratto", size = 4, color = "black") +
+  ggplot2::annotate("text", x = -2, y = 2, label = "Bassa skill alto tratto", size = 4, color = "black") +
+  ggplot2::theme_bw()
+```
+
+Un primo studio che ha indagato cosa comporta avere caratteristiche di personalità e di skill differenti [@ringwald_more_2023] ci mostra come persone con alto tratto, ad esempio molto estroverse, ma bassa skill, quindi poco brave in interazione sociale, riportano, tra gli altri, punteggi di benessere e soddisfazione di vita più bassi. Immagina, tornando all'esempio del calcio, di giocare tutti i giorni ma essere comunque scarso. Come ti sentiresti? Il contrario invece, quindi alta skill con basso tratto, non sembra invece influire negativamente sul benessere della persona. Può infatti essere bello avere una buona abilità in qualcosa anche se non lo si fa spesso...male non fa.
+
+#### Concludendo
+
+Queste cinque dimensioni delineano un insieme di abilità che consentono di adattare e modulare il comportamento in risposta alle esigenze contestuali, anche quando l'individuo non possiede una naturale inclinazione o predisposizione a comportarsi in quel modo. Mentre la preferenza indica l’approccio spontaneo con cui una persona tenderebbe ad affrontare un compito, la competenza SEB rappresenta l'abilità concreta di agire, pensare e interagire in modo funzionale per rispondere a una specifica richiesta. Questo concetto evidenzia la natura flessibile e adattabile del comportamento umano e sottolinea come le competenze SEB siano abilità dinamiche, modificabili e sviluppabili con il tempo.
+
+Oltre alla solida base teorica su cui si fonda il modello SEB (Napolitano et al., 2021; Soto et al., 2021), esistono già numerose evidenze scientifiche che ne supportano la validità. La struttura è stata infatti sottoposta a studi empirici e confermata a livello statistico in diversi contesti educativi, sia scolastici che universitari, in paesi come gli Stati Uniti, la Germania e l’Italia (Feraco, Casali, et al., 2023; Lechner et al., 2022; Soto et al., 2022a). Inoltre, la letteratura scientifica documenta ampiamente l’importanza delle competenze SEB durante l’adolescenza, evidenziando il loro ruolo cruciale nello studio, nell’apprendimento e nel benessere complessivo dell’individuo (Feraco & Meneghetti, 2023; Napolitano et al., 2021; Sewell et al., 2023; Soto et al., 2022a, 2022b, 2023). Nello specifico, è stato dimostrato che queste competenze contribuiscono significativamente a prevedere la motivazione scolastica e accademica, influenzando positivamente non solo la riuscita negli studi, ma anche gli interessi professionali, la qualità delle relazioni interpersonali, l’impegno civico e il benessere psicologico (Soto et al., 2022b). È importante notare come tale impatto rimanga significativo indipendentemente da altre variabili individuali, come abilità cognitive, tratti di personalità o status socioeconomico.
 
 ## Date e aule
 
@@ -24,85 +136,4 @@ Il corso di Psicologia della Personalità e delle Differenze Individuali sarà t
 | Lunedì  | 10:30-12:30 | T3   |
 | Venerdì | 10:30-12:30 | T3   |
 
-## About This Course
-
-Questo corso è parte integrante del corso di laurea in [Scienze psicologiche dello sviluppo, della personalità e delle relazioni interpersonali](https://www.psicologia.unipd.it/offerta-didattica/corsi-di-laurea/?tipo=L&ordinamento=2023&key=PS2295).
-
-The primary resource for the course is the online book available on GitHub: [***Introduction2R** (English edition)*](https://psicostat.github.io/Introduction2R_EN/){target="_blank"}.
-
-### Getting Started
-
-1.  **Bookmark the Course Homepage**: Save the URL of the present page [https://enricotoffalini.github.io/Basics-R/](https://enricotoffalini.github.io/Basics-R/){target="_blank"} for quick access to all course materials.
-2.  **Install R and RStudio**: go to [**this download page**](https://posit.co/download/rstudio-desktop/){target="_blank"} to install *R* and *RStudio Desktop* on your computer (further setup instructions can be found in [*Chapter 1*](https://psicostat.github.io/Introduction2R_EN/install.html){target="_blank"} of *Introduction2R*)
-3.  *Optional* - check your installation by running this code in your newly installed RStudio, and install a few packages:
-
-``` r
-pkgs = c("readxl", "psych", "ggplot2")
-install.packages(pkgs)
-```
-
-### Course Topics
-
-##### Introduction to the R Environment and First Steps in R
-
-We will cover the installation of R and see how to organize and manage a work session in R Studio, how to create objects, what are data types, how to perform basic operations on them, and how to import and export data, figures, and workspaces.
-
-##### Data Structures
-
-We will introduce the main data structures in R and methods for interacting with them effectively. We will focus on vectors, dataframes, lists, and more. Dataframes will be given special attention.
-
-##### Basics of Programming in R
-
-We will introduce essential programming concepts and their implementation in R, including conditional operations (such as `if...else`), iterative programming (including the `for` loops and the `apply` family), and defining custom functions.
-
-##### *Advanced*
-
-*For more experienced R users, some materials under the Exercises section will provide more stimulating challenges and instructions, even beyond the scope of the present introductory course.*
-
-## Materials
-
-```{=html}
-<!--
-::: {style="color: #999; font-weight: bold; font-style: italic;"}
-SECTION IN PROGRESS: NEW MATERIALS WILL BE ADDED HERE THROUGHOUT THE COURSE
-:::
--->
-```
-### Slides
-
--   **Getting Started with R** - [html](Slides/0.GettingStartedR.html){target="_blank"} - [pdf](Slides/0.GettingStartedR.pdf){target="_blank"}
--   **First Steps in R (part 1)** - [html](Slides/1.1.FirstStepsR-1.html){target="_blank"} - [pdf](Slides/1.1.FirstStepsR-1.pdf){target="_blank"}
--   **First Steps in R (part 2)** - [html](Slides/1.2.FirstStepsR-2.html){target="_blank"} - [pdf](Slides/1.2.FirstStepsR-2.pdf){target="_blank"}
--   **Data Structures (part 1)** - [html](Slides/2.1.DataStruc-1.html){target="_blank"} - [pdf](Slides/2.1.DataStruc-1.pdf){target="_blank"} *(vectors)*
--   **Data Structures (part 2)** - [html](Slides/2.2.DataStruc-2.html){target="_blank"} - [pdf](Slides/2.2.DataStruc-2.pdf){target="_blank"} *(dataframes)*
--   **Data Structures (part 3)** - [html](Slides/2.3.DataStruc-3.html){target="_blank"} - [pdf](Slides/2.3.DataStruc-3.pdf){target="_blank"} *(lists and more)*
--   **Basics of Programming** - [html](Slides/3.Programming.html){target="_blank"} - [pdf](Slides/3.Programming.pdf){target="_blank"} *(conditions, iterations, custom functions)*
-
-### Exercises
-
-*— The following exercises are fundamental, and they importantly integrate concepts from the slides and introduce new functions and methods that you want to know!*
-
--   **First steps in R** - [html](Exercises/1-Exercises-First-steps.html){target="_blank"}
--   **Vectors** - [html](Exercises/2.1-Exercises-Vectors.html){target="_blank"}
--   **Dataframes** - [html](Exercises/2.2-Exercises-Dataframes.html){target="_blank"}
--   <b>Data <em>nightmare</em> exercise</b> - [html](Exercises/2.3-Exercises-DataScientist.html){target="_blank"}
--   **Programming and more** - [html](Exercises/3-Exercises-ProgrMore.html){target="_blank"}
-
-*— These other exercises are beyond the scope of this introductory course, but they could be stimulating and useful for more advanced R users:*
-
--   **Creating a word cloud** - [html](Exercises/11-WordCloud.html){target="_blank"}
-    -   ::: {style="font-size:14px;"}
-        see [here](Exercises/ExampleStrings.html){target="_blank"} some suggestions on manipulating strings
-        :::
--   **Monte Carlo simulations for Power analysis** - [html](Exercises/12-MonteCarloSim.html){target="_blank"}
-    -   ::: {style="font-size:14px;"}
-        see [here](Exercises/ExampleMC.html){target="_blank"} some examples of Monte Carlo simulations
-        :::
-
-------------------------------------------------------------------------
-
-::: {style="font-size:11px;"}
-GitHub repository associated to the present course website: [https://github.com/EnricoToffalini/Basics-R](https://github.com/EnricoToffalini/Basics-R){target="_blank"}
-
-Many thanks to Filippo Gambarota and Enrico Toffalini for sharing their expertise in using GitHub, Quarto, and creating GitHub Pages websites.
-:::
+## 
