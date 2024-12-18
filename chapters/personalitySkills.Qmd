@@ -104,7 +104,11 @@ Ricordiamo però che, nonostante le due cose siano molto correlate (si veda @fig
 
 Come si vede dall'immagine ( @fig-SebBf), le correlazioni tra i tratti corrispondenti sono molto alte a indicare che, con gli attuali metodi di misurazione, facciamo fatica a distinguere tra una e l'altra. Nonostante questo però, sappiamo che una correlazione non perfetta prevede comunque che ci siano persone con punteggi molto alti in una variabile ma bassi o medi nell'altra (si veda @fig-diffCor).
 
-```{r fig-diffCor, echo=FALSE, warning=FALSE,message=FALSE, fig.height=4, fig.width=4, fig.cap="Individui (in rosso) con differenti punteggi di skill e tratto data una correlazione di .69"}
+```{r warning=FALSE, message=FALSE, fig.height=4, fig.width=4}
+#| label: fig-diffCor
+#| fig-cap: "Individui (in rosso) con differenti punteggi di skill e tratto data una correlazione di .69"
+#| echo: false
+#| 
 d = MASS::mvrnorm(n = 500, mu = c(0,0), Sigma = matrix(c(1,.69,.69,1),ncol = 2),
                   empirical = TRUE)
 d = data.frame(d)
@@ -185,14 +189,35 @@ Questi risultati possono suggerirci come, da psicologi interessati a promuovere 
 
 ## Impatto delle soft skills
 
-Oltre alla solida base teorica su cui si fonda il modello SEB [@napolitano_social_2021; @soto_taking_2021], che finalmente distingue le competenze dai tratti, esistono già numerose evidenze scientifiche che ne supportano la validità predittiva.
+Oltre alla solida base teorica su cui si fonda il modello SEB [@napolitano_social_2021; @soto_taking_2021], che finalmente distingue le competenze dai tratti, esistono già numerose evidenze scientifiche che ne supportano la validità predittiva, sia in ambiente lavorativo [@chen_social_2024] che di apprendimento, ma le maggiori evidenze raccolte con il modello SEB riguardano l'apprendimento, per ora.
 
 ### Soft skills a scuola e all'università
 
-Molti studi consideranti le SEB skills si sono focalizzati sul loro ruolo in popolazioni di studenti (si veda ad esempio @fig-sebSchool) . Da queste analisi si può evincere il contributo differenziale delle diverse skill per outcome specifici. Ad esempio, le abilità di autogestione e innovazione risultano maggiormente predittive del successo (in termini di voti) scolastico e universitario e di un migliore approccio allo studio, da intendersi come studio organizzato, strategico e intrinsecamente motivato [@pellegrino_skilled_2024; @soto_integrative_2022; @yoon_examining_2024]. Allo stesso tempo però, abilità di regolazione emotiva favoriscono la regolazione delle emozioni scolastiche, sia riguardanti i test (es. ansia da test) sia più generali. Questo a sua volta favorisce un maggiore successo [@feraco_integrated_2023]. Le skill più sociali, invece, come le abilità di interazione sociale e cooperazione influenzano direttamente la sfera sociale (ovviamente) e risultano particolarmente associate allo status sociale, alla qualità delle proprie relazioni, al sentirsi accettati e coinvolti [@pellegrino_skilled_2024; @soto_integrative_2022]. Più in generale
-
-È importante notare come tale impatto rimanga significativo indipendentemente da altre variabili individuali, come abilità cognitive, tratti di personalità o status socioeconomico.
+Molti studi consideranti le SEB skills si sono focalizzati sul loro ruolo in popolazioni di studenti (si veda ad esempio @fig-sebSchool) . Da queste analisi si può evincere il contributo differenziale delle diverse skill per outcome specifici. Ad esempio, le abilità di autogestione e innovazione risultano maggiormente predittive del successo (in termini di voti) scolastico e universitario e di un migliore approccio allo studio, da intendersi come studio organizzato, strategico e intrinsecamente motivato [@pellegrino_skilled_2024; @soto_integrative_2022; @yoon_examining_2024]. Allo stesso tempo però, abilità di regolazione emotiva favoriscono la regolazione delle emozioni scolastiche, sia riguardanti i test (es. ansia da test) sia più generali. Questo a sua volta favorisce un maggiore successo [@feraco_integrated_2023]. Le skill più sociali, invece, come le abilità di interazione sociale e cooperazione influenzano direttamente la sfera sociale (ovviamente) e risultano particolarmente associate allo status sociale, alla qualità delle proprie relazioni, al sentirsi accettati e coinvolti [@pellegrino_skilled_2024; @soto_integrative_2022]. Più in generale, studenti e studentesse con alti punteggi in abilità di regolazione emotiva, autogestione e interazione sociale risultano anche più soddisfatti della propria vita e riportano un maggior benessere percepito.
 
 ![L'effetto delle SEB skill su aspetti di approccio allo studio, successo scolastico e benessere soggettivo e relazionale](images/sebSchool.png){#fig-sebSchool}
 
-## 
+È importante notare come tale impatto rimanga significativo indipendentemente da altre variabili individuali, come abilità cognitive, tratti di personalità o status socioeconomico. In altre parole, nonostante l'alta correlazione tra tratti e skill insita nelle misure e teorie di soft skill, quando opportunamente misurate (quindi non utilizzando esattamente gli stessi questionari usati per i tratti), le skill predicono gli outcome al netto di quanto già facciano i tratti di personalità [@roemer_social_2024; @soto_going_2022]. Cosa vuol dire questo?
+
+Immagina di voler prevedere il peso di una persona usando due variabili: altezza e età.
+
+1.  Senza controllare per altezza: Supponiamo che le persone più anziane tendano a pesare di più. Se consideriamo solo l'età, vediamo che sembra avere un potere predittivo sul peso.
+
+2.  Controllando per altezza: Introduciamo l'altezza. Una parte del legame tra età e peso potrebbe essere dovuta al fatto che le persone più alte tendono a pesare di più e gli adulti (che sono più anziani) sono generalmente più alti rispetto ai bambini.
+
+Il potere predittivo di una variabile (età) al netto di un’altra (altezza) è ciò che rimane una volta tolto l’effetto dell’altra (altezza). Questo ci aiuta a capire se l’età influisce sul peso *indipendentemente* o *al netto* dall’altezza.
+
+<!-- Studenti con disturbi specifici dell'apprendimento -->
+
+# References
+
+::: {#refs}
+:::
+
+<br><br>
+
+::: {style="font-size:11px;"}
+GitHub repository associated to the present course website: <https://github.com/tferaco93/Personality-and-individual-differences>
+
+Many thanks to Nicole Casali and Chiara Meneghetti for writing with me a different chapter on SEB skills [@sini2024].
+:::
