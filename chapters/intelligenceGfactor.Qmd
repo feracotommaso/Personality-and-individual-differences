@@ -1,0 +1,74 @@
+---
+title: "Il Fattore g e le Teorie dell'Intelligenza"
+subtitle: ""
+author: "Tommaso Feraco"
+#bibliography: references.bib
+csl: nature.csl
+# include-in-header: assets/header.html
+format: 
+  html:
+    self-contained: true
+    toc: true   
+    toc-depth: 3 
+    toc-expand: 3 
+    code-fold: false 
+    message: false
+#    css: "assets/custom.css"
+editor: visual
+---
+
+# 
+
+### Introduzione
+
+L'intelligenza umana è un concetto complesso e dibattuto, e tra le teorie più accreditate spicca quella del "fattore g", ma dove nasce l'idea di un'intelligenza unica, misurabile e stabile? E quali sono le teorie alternative e quali quelle più solide scientificamente?
+
+### Le Origini della Misurazione dell'Intelligenza
+
+Il primo tentativo moderno di misurare l'intelligenza risale alla metà dell'Ottocento con Francis Galton, che, influenzato dall'evoluzionismo, cercò di correlare tratti psico-fisici con il successo. Tuttavia, i suoi metodi basati su tempi di reazione e percezione non si dimostrarono efficaci.
+
+Nel 1904, Alfred Binet fu incaricato dal governo francese di sviluppare una scala per identificare i bambini con difficoltà scolastiche. La scala Binet-Simon, successivamente adattata negli Stati Uniti da Lewis Terman nella forma della Stanford-Binet, introdusse il concetto di "età mentale" e il primo indice di Quoziente Intellettivo (QI), sviluppato da Wilhelm Stern nel 1912.
+
+Wechsler, a partire dalle Stanford-Binet, sviluppò nel 1939 le sue scale, che distinguevano tra QI verbale e non verbale, fornendo una misura più bilanciata dell'intelligenza e confermando la struttura gerarchica dell'intelligenza umana.
+
+### Il Concetto di Fattore g
+
+Spearman osservò che le persone che eccellevano in un'abilità tendevano a ottenere buoni risultati anche in altri compiti cognitivi. Utilizzando l'analisi fattoriale, individuò una componente comune, chiamata "fattore g", che influenza le prestazioni in diverse prove di intelligenza. Accanto a g, esistono fattori specifici legati a singole abilità, ma è il fattore g che spiega la maggior parte della varianza nei test cognitivi.
+
+Le matrici di Raven (1936) sono un test non verbale progettato per misurare il fattore g senza influenze culturali o linguistiche, consolidando l'idea che l'intelligenza generale fosse un costrutto reale e misurabile.
+
+### L'Evoluzione delle Teorie sull'Intelligenza
+
+Mentre Spearman sosteneva un'intelligenza generale unitaria, altre teorie hanno cercato di proporre un modello multifattoriale. Louis Thurstone (1938) identificò sette "Primary Mental Abilities", mentre Howard Gardner (1993) sviluppò la teoria delle "intelligenze multiple", includendo intelligenze musicali, corporee e interpersonali. Tuttavia, molti di questi modelli continuano a correlare tra loro, suggerendo una componente generale sottostante.
+
+Robert Sternberg propose nel 1996 la teoria triarchica dell'intelligenza, distinguendo tra intelligenza analitica, pratica e creativa. Tuttavia, la difficoltà di misurare le intelligenze pratica e creativa ha reso difficile la verifica empirica di questa teoria.
+
+Un compromesso tra le teorie unitarie e multifattoriali è rappresentato dal modello Cattell-Horn-Carroll (CHC), che struttura l'intelligenza in una gerarchia con il fattore g al vertice, seguito da abilità generali (come intelligenza fluida e cristallizzata) e specifiche.
+
+### Il Fattore g e le Prestazioni nella Vita
+
+Numerose ricerche mostrano che il fattore g è un forte predittore del successo accademico e lavorativo. Studi metanalitici evidenziano che g spiega meglio di qualsiasi altro costrutto psicologico le performance scolastiche e professionali. Inoltre, livelli più elevati di intelligenza generale sono correlati a una migliore salute e a una maggiore longevità.
+
+### Il Dibattito su Natura e Cultura
+
+Un'importante questione riguarda l'origine del fattore g: è determinato dalla genetica o dall'ambiente? Studi sui gemelli indicano che l'ereditarietà del QI varia tra il 65% e l'80%, suggerendo una forte componente genetica. Tuttavia, l'ambiente gioca un ruolo cruciale, come dimostrato dall'effetto Flynn, che mostra un aumento del QI medio nelle generazioni recenti grazie a miglioramenti nelle condizioni di vita e nell'istruzione.
+
+L'ipotesi della "mutualità" suggerisce che il fattore g emerga nel tempo dall'interazione tra diverse abilità specifiche, piuttosto che essere innato e invariabile.
+
+### L'Ontogenesi del Fattore g
+
+Un'altra area di ricerca riguarda lo sviluppo del fattore g. Alcuni modelli, come la teoria della "differenziazione e dedifferenziazione", suggeriscono che l'intelligenza generale sia più rilevante durante l'infanzia, mentre con l'età emergono abilità specifiche. Al contrario, le ipotesi "mutualistiche" suggeriscono che il fattore g emerga nel tempo a causa delle interazioni tra diverse competenze cognitive.
+
+Studi recenti esplorano l'ontogenesi di g, interrogandosi se questo sia presente sin dalla nascita o se emerga con l'apprendimento e l'adattamento ambientale. Alcune ricerche indicano che i processi cognitivi interagiscono nel tempo, portando alla formazione di una componente generale dell'intelligenza.
+
+### Conclusione
+
+Il fattore g rimane uno dei costrutti più influenti in psicologia. Sebbene non sia direttamente osservabile, il suo impatto sulle prestazioni cognitive e sugli esiti di vita è ben documentato. La ricerca continua a esplorare le sue basi biologiche e ambientali, contribuendo a una comprensione sempre più approfondita dell'intelligenza umana. Tuttavia, la sua origine e il suo sviluppo rimangono domande aperte, e nuovi studi potrebbero fornire ulteriori risposte nei prossimi anni.
+
+<br><br>
+
+::: {style="font-size:11px;"}
+GitHub repository associated to the present course website: <https://github.com/tferaco93/Personality-and-individual-differences>
+
+Many thanks to Nicole Casali and Chiara Meneghetti for writing with me a different chapter on SEB skills [@sini2024].
+:::

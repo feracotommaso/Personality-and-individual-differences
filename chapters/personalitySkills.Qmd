@@ -3,6 +3,7 @@ title: "Personality skills"
 subtitle: "Soft skills, personality skills, SEB skills, life skills e altri mostri"
 author: "Tommaso Feraco"
 bibliography: references.bib
+csl: nature.csl
 # include-in-header: assets/header.html
 format: 
   html:
@@ -20,7 +21,7 @@ editor: visual
 
 Le soft skill, spesso chiamate competenze trasversali o non tecniche, rappresentano un insieme variegato di abilità personali che possono differire in base alle definizioni, ai contesti di applicazione e ai modelli teorici utilizzati per analizzarle.
 
-In questo capitolo cercheremo di fare un po' di chiarezza focalizzando l'attenzione sui modelli più recenti di psicologia della personalità.
+In questo capitolo cercheremo di fare un po' di chiarezza focalizzando l'attenzione sui modelli più recenti elaborati in psicologia della personalità.
 
 ## Definizioni
 
@@ -36,7 +37,7 @@ Un esempio pratico è rappresentato dalla capacità di lavorare in squadra, che 
 
 In sintesi, le soft skill possono essere definite come quelle qualità individuali che migliorano la capacità di adattarsi agli altri, affrontare le sfide e rispondere in modo efficace alle richieste dell'ambiente circostante [@feraco_integrated_2023], facilitando così il raggiungimento del successo personale in molteplici ambiti.
 
-Ma cosa può differenziare le soft skill da un tratto di personalità, se così definite? Ricordando che i tratti di personalità definiscono come una persona risponde -tendenzialmente- agli stimoli ambientali a livello comportamentale, emotivo e di pensiero, praticamente non cambia niente [@soto_taking_2021] tranne il fatto che la skill sottolinea un estremo del tratto -quello utile- e non il tratto nella sua interezza. Ad esempio, essere molto coscienziosi è bene in quanto ci porta al successo [@roberts_personality_2022], mentre esserlo poco significa essere generalmente disorganizzati e inaffidabili, quindi male, quindi non skill. Ma saremmo d'accordo col dire che le persone introverse sono peggio di quelle estroverse solo perchè parlare in pubblico è utile in ambito lavorativo? Spero di no...
+Ma cosa può differenziare le soft skill da un tratto di personalità, se così definite? Ricordando che i tratti di personalità definiscono come una persona risponde -tendenzialmente- agli stimoli ambientali a livello comportamentale, emotivo e di pensiero, praticamente non cambia niente [@soto_taking_2021] tranne il fatto che la skill sottolinea un estremo del tratto -quello di solito ritenuto più funzionale- e non il tratto nella sua interezza. Ad esempio, essere molto coscienziosi è bene in quanto ci porta al successo [@roberts_personality_2022], mentre esserlo poco significa essere generalmente disorganizzati e inaffidabili, quindi male, quindi non skill. Ma saremmo d'accordo col dire che le persone introverse sono peggio di quelle estroverse solo perchè parlare in pubblico è utile in ambito lavorativo? Spero di no...
 
 Può quindi bastare questa definizione? Sarete d'accordo con me che no, non basta.
 
@@ -44,9 +45,9 @@ Può quindi bastare questa definizione? Sarete d'accordo con me che no, non bast
 
 Passiamo quindi alle più recenti definizioni di soft skill da un punto di vista integrativo e fortemente psicologico.
 
-Soto e colleghi [-@soto_taking_2021], famosi e influenti psicologi della personalità, definiscono le competenze sociali, emotive e comportamentali (Social, Emotional e Behavioral, SEB, dall’inglese) come l’insieme di abilità che consentono agli individui di instaurare e mantenere relazioni positive, regolare le proprie emozioni e gestire comportamenti finalizzati al raggiungimento di obiettivi personali e di apprendimento.
+Soto e colleghi [-@soto_taking_2021], famosi e influenti psicologi della personalità, definiscono le competenze sociali, emotive e comportamentali (Social, Emotional e Behavioral, SEB, dall’inglese) come un insieme di abilità funzionali che consentono agli individui di instaurare e mantenere relazioni positive, regolare le proprie emozioni e gestire comportamenti finalizzati al raggiungimento di obiettivi personali e di apprendimento.
 
-Dall’analisi delle molteplici tassonomie esistenti sulle soft skill (oltre cento, vedi: <http://exploresel.gse.harvard.edu/>) , hanno elaborato un quadro teorico ampio e integrato, rilevando che molte competenze risultano condivise tra diversi modelli concettuali (ad esempio, l’adattabilità può essere indicata anche come flessibilità o elasticità a seconda del contesto). Hanno poi cercato di distinguere queste skill dai tratti di personalità. Infatti, un aspetto centrale del loro lavoro è la netta distinzione tra le abilità pratiche, ossia le *skill* vere e proprie, e le inclinazioni o preferenze comportamentali di base, cioè i tratti di personalità. Da un lato, infatti, troviamo le predisposizioni individuali che tendono a stabilire come una persona si comporterà in circostanze diverse (pensiamo a una persona timida, il cui comportamento risulta generalmente coerente in vari contesti); dall’altro, abbiamo le abilità che l’individuo può esprimere quando la situazione lo richiede. Ad esempio, uno studente può essere chiamato a sostenere un esame orale o a presentare un lavoro di gruppo: è in queste situazioni che entrano in gioco le competenze SEB, ovvero ciò che l’individuo *sa fare* o può apprendere per rispondere alle richieste del contesto.
+Dall’analisi delle molteplici tassonomie esistenti sulle soft skill (oltre cento, vedi: <http://exploresel.gse.harvard.edu/>), hanno elaborato un quadro teorico ampio e integrato, rilevando che molte competenze risultano condivise tra diversi modelli concettuali (ad esempio, l’adattabilità può essere indicata anche come flessibilità o elasticità a seconda del contesto). Hanno poi cercato di distinguere queste skill dai tratti di personalità. Infatti, un aspetto centrale del loro lavoro è la netta distinzione tra le abilità pratiche, ossia le *skill* vere e proprie, e le inclinazioni o preferenze comportamentali di base, cioè i tratti di personalità. Da un lato, infatti, troviamo le predisposizioni individuali che tendono a stabilire come una persona si comporterà in circostanze diverse (pensiamo a una persona timida, il cui comportamento risulta generalmente coerente in vari contesti); dall’altro, abbiamo le abilità che l’individuo può esprimere quando la situazione lo richiede. Ad esempio, uno studente può essere chiamato a sostenere un esame orale o a presentare un lavoro di gruppo: è in queste situazioni che entrano in gioco le competenze SEB, ovvero ciò che l’individuo *sa fare* o può apprendere per rispondere alle richieste del contesto.
 
 Le competenze SEB (o soft skills) possono essere considerate come una “cassetta degli attrezzi” a disposizione della persona, strumenti che possono essere utilizzati o sviluppati con l’esperienza e la pratica, senza modificare o corrispondere necessariamente alle preferenze comportamentali di base [@ringwald_more_2023]. Prendiamo ad esempio un individuo che tende a preferire l’isolamento e a non cercare interazioni sociali. In situazioni specifiche, come una presentazione in pubblico o un lavoro di gruppo, questa persona dovrà superare la propria inclinazione naturale e applicare abilità come il *public speaking* (gestione della voce, della postura e della mimica) per rispondere in modo efficace alla richiesta. Lo stesso principio vale al contrario: una persona molto socievole potrebbe dover contenere impulsi e mantenere l’autocontrollo in contesti più strutturati, come durante una lezione frontale.
 
@@ -78,7 +79,7 @@ Nonostante questa organizzazione in domini e categorie, ogni singola abilità ma
 
 Per ulteriori dettagli sulle 32 competenze SEB, si rimanda al sito ufficiale: <http://www.sebskills.com>.
 
-In conclusione, le soft skill rappresentano un insieme di qualità individuali che permettono alle persone di adattarsi efficacemente agli altri, affrontare con successo le sfide e rispondere in modo proattivo alle richieste dell’ambiente circostante, contribuendo così a favorire il successo personale in contesti diversi. Queste però non corrispondono a come la persona tende a comportarsi di solito, ma ci assomigliano molto.
+In conclusione, le soft skill rappresentano un insieme di qualità individuali che permettono alle persone di adattarsi efficacemente agli altri, affrontare con successo le sfide e rispondere in modo proattivo alle richieste dell’ambiente circostante, contribuendo così a favorire il successo personale in contesti diversi. Queste però non corrispondono a come la persona tende a comportarsi di solito, anche se ci assomigliano molto.
 
 #### Similitudini tra tratti e skill
 
@@ -96,13 +97,13 @@ La corrispondenza è infatti ovvia e insita nel modello di riferimento (si veda 
 
 : Corrispondenza tra skill e tratti {#tbl-sebBfCorrespondence}
 
-Oltre che teoricamente, le due caratteristiche vanno anche a braccetto nella stessa persona. Se infatti pensiamo a una persona che gioca a calcio tutti i giorni, ci immaginiamo che sia anche brava a farlo. Allo stesso modo, una persona molto estroversa, che parla con tutti, sta al centro dell'attenzione, ama le situazioni socialmente stimolanti e imparerà, piano piano, ad attuare questi comportamenti in modo ottimale. Viceversa, una persona molto brava a giocare a calcio, per talento o fortuna, probabilmente giocherà spesso e volentieri a calcio. Così una persona molto brava a regolare le proprie emozioni quando vuole, tenderà a farlo spesso, risultando più stabile emotivamente (meno nevrotica). Lo stesso esempio può essere fatto per ogni skill e ogni tratto. Provaci, magari ti verrà chiesto all'esame.
+Oltre che teoricamente, le due caratteristiche vanno anche a braccetto nella stessa persona. Se infatti pensiamo a una persona che gioca a calcio tutti i giorni, ci immaginiamo che sia anche brava a farlo. Allo stesso modo, una persona molto estroversa, che parla con tutti, sta al centro dell'attenzione e ama le situazioni socialmente stimolanti, imparerà, piano piano, ad attuare questi comportamenti in modo ottimale. Viceversa, una persona molto brava a giocare a calcio, per talento o fortuna, probabilmente giocherà spesso e volentieri a calcio. Così una persona molto brava a regolare le proprie emozioni quando vuole, tenderà a farlo spesso, risultando più stabile emotivamente (meno nevrotica). Lo stesso esempio può essere fatto per ogni skill e ogni tratto. Provaci, magari ti verrà chiesto all'esame.
 
 Ricordiamo però che, nonostante le due cose siano molto correlate (si veda @fig-SebBf), tratti e skill possono anche non corrispondere all'interno della stessa persona. Abbiamo quindi persone molto introverse, a cui non piace mettersi al centro dell'attenzione e che raramente iniziano loro sponte a parlare con degli sconosciuti, ma che sono comunque molto brave a parlare in pubblico, se necessario. Certo, probabilmente non si offriranno volontarie per farlo in un lavoro di gruppo, ma se dovessero, se la caverebbero comunque molto bene.
 
 [![Correlazione tra skill e tratti](images/corSebBf.png){#fig-SebBf}](correlazioneSebBf)
 
-Come si vede dall'immagine ( @fig-SebBf), le correlazioni tra i tratti corrispondenti sono molto alte a indicare che, con gli attuali metodi di misurazione, facciamo fatica a distinguere tra una e l'altra. Nonostante questo però, sappiamo che una correlazione non perfetta prevede comunque che ci siano persone con punteggi molto alti in una variabile ma bassi o medi nell'altra (si veda @fig-diffCor).
+Come si vede dall'immagine ( @fig-SebBf), le correlazioni tra i tratti corrispondenti sono molto alte a indicare che, con gli attuali metodi di misurazione, facciamo fatica a distinguere tra una e l'altra. Nonostante questo, però, sappiamo che una correlazione non perfetta prevede comunque che ci siano persone con punteggi molto alti in una variabile ma bassi o medi nell'altra (si veda @fig-diffCor).
 
 ```{r warning=FALSE, message=FALSE, fig.height=4, fig.width=4}
 #| label: fig-diffCor
@@ -125,7 +126,7 @@ ggplot2::ggplot(data = d, ggplot2::aes(x = Interazione_sociale,
   ggplot2::geom_vline(xintercept = 0) +
   ggplot2::geom_hline(yintercept = 0) +
   ggplot2::annotate("text", x = 1.5, y = -2.5, label = "Alta skill basso tratto", size = 4, color = "black") +
-  ggplot2::annotate("text", x = -2, y = 2, label = "Bassa skill alto tratto", size = 4, color = "black") +
+  ggplot2::annotate("text", x = -1.7, y = 2, label = "Bassa skill alto tratto", size = 4, color = "black") +
   ggplot2::theme_bw()
 ```
 
@@ -144,7 +145,7 @@ Un esempio recente di questi inventari, con buone proprietà psicometriche, è i
 Ma cosa distingue il BESSI dal Big Five Inventory? La principale differenza, oltre agli item che sono ovviamente diversi, risiede nel tipo di domanda che viene posta e alla modalità di risposta (si veda @tbl-sebBfItems). Infatti, osservando i questionari che indagano i tratti di personalità viene solitamente chiesto di valutare quanto spesso viene svolta una certa azione o provata una certa emozione (es. "*non mi capita spesso di sentirmi teso*"). Nel BESSI viene invece richiesto di valutare quanto si è bravi a svolgere determinate azioni come "*calmarti quando ti senti in ansia*" (1 = per niente bene; 5 = estremamente bene).
 
 | Tratto/skill                          | Item di tratto (*mi vedo come una persona che..*) | Item di skill (*Quanto bene sai...*)                   |
-|--------------------|-------------------------|---------------------------|
+|--------------------|-------------------------|----------------------------|
 | Estroversione/interazione sociale     | *È socievole, chiacchierona*                      | *Iniziare una conversazione*                           |
 | Stabilità emotiva/regolazione emotiva | *Raramente si sente in ansia*                     | *Calmarsi quando si sente in ansia*                    |
 | Coscienziosità/autogestione           | *Persiste finchè non ha completato i compiti*     | *Continuare a lavorare finchè il compito non è finito* |
@@ -163,7 +164,7 @@ Sappiamo, ad esempio, che durante l'adolescenza queste cambiano molto, con cadut
 
 ![Andamento delle SEB skills durante l'adolescenza](images/sebAge.png){#fig-sebAge}
 
-Nel tempo invece, a conferma dell'ipotesi generale che le abilità migliorino e si accumulino nel tempo, la maggior parte dei punteggi sembra aumentare di anno in anno, nonostante si debba tenere conto che, al variare dell'età variano anche le richieste sociali e ambientali, le quali possono influire negativamente sull'autopercezione (e quindi sui self-repot) degli adolescenti riguardo le proprie abilità. Basti pensare all'inizio delle scuole superiori e a quanto, in questo passaggio, aumentino le richieste fatte ai ragazzi a livello di organizzazione (es. prendere treni e bus per andare e tornare da scuola), di socialità (es. nuovi prof, nuovi compagni) e di regolazione emotiva (es. primi amori, conflitti genitoriali) [@napolitano_social_2021].
+Nel tempo invece, a conferma dell'ipotesi generale che le abilità migliorino e si accumulino, la maggior parte dei punteggi sembra aumentare di anno in anno, nonostante si debba tenere conto che, al variare dell'età variano anche le richieste sociali e ambientali, le quali possono influire negativamente sull'autopercezione (e quindi sui self-repot) degli adolescenti riguardo le proprie abilità. Basti pensare all'inizio delle scuole superiori e a quanto, in questo passaggio, aumentino le richieste fatte ai ragazzi a livello di organizzazione (es. prendere treni e bus per andare e tornare da scuola), di socialità (es. nuovi prof, nuovi compagni) e di regolazione emotiva (es. primi amori, conflitti genitoriali) [@napolitano_social_2021].
 
 Dalla @fig-sebBfVariance possiamo notare un ulteriore spunto interessante. Ricordandoci che la varianza non è altro che il quadrato delle differenze rispetto alla media, l'immagine ci mostra valori generalmente più alti e statisticamente significativi per quanto riguarda le skill rispetto a quanto succeda per i tratti. In altre parole, se misurassimo con due questionari skill e tratti a tempo zero e poi di nuovo dopo quattro mesi e nuovamente dopo otto mesi, vedremmo molte più variazioni nelle skill rispetto a quante ne osserveremmo nei tratti, a conferma dell'ipotesi della (maggiore) stabilità dei tratti e della (maggiore) malleabilità delle skill.
 
@@ -205,7 +206,7 @@ Immagina di voler prevedere il peso di una persona usando due variabili: altezza
 
 2.  Controllando per altezza: Introduciamo l'altezza. Una parte del legame tra età e peso potrebbe essere dovuta al fatto che le persone più alte tendono a pesare di più e gli adulti (che sono più anziani) sono generalmente più alti rispetto ai bambini.
 
-Il potere predittivo di una variabile (età) al netto di un’altra (altezza) è ciò che rimane una volta tolto l’effetto dell’altra (altezza). Questo ci aiuta a capire se l’età influisce sul peso *indipendentemente* o *al netto* dall’altezza.
+Il potere predittivo di una variabile (età) al netto di un’altra (altezza) è ciò che rimane una volta tolto l’effetto dell’altra (altezza). Questo ci aiuta a capire se l’età influisce sul peso *indipendentemente* o *al netto* dall’altezza. Quindi le *skill* sembrano predire gli outcome *al netto dei tratti* corrispondenti.
 
 <!-- Studenti con disturbi specifici dell'apprendimento -->
 
