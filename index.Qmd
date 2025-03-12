@@ -32,7 +32,7 @@ Questo corso è parte integrante del corso di laurea in [Scienze psicologiche de
 
 Puoi trovare qui i materiali aggiuntivi per il corso:
 
--   **Personality skills** - [html](https://feracotommaso.github.io/Personality-and-individual-differences/chapters/personalitySkills.html){target="_blank"} - [pdf](Slides/0.GettingStartedR.pdf){target="_blank"}
+-   **Personality skills** - [html](https://feracotommaso.github.io/Personality-and-individual-differences/chapters/personalitySkills.html){target="_blank"} <!--# - pdf -->
 -   **Intelligenza e *g-factor*** - NA
 
 ## Risultati
@@ -40,6 +40,8 @@ Puoi trovare qui i materiali aggiuntivi per il corso:
 Puoi trovare qui le slide con i risultati visti in classe:
 
 -   **Big Five e EPI** - [2025](https://feracotommaso.github.io/Personality-and-individual-differences/results/2025/1.Risultati.html)
+
+------------------------------------------------------------------------
 
 ::: {style="font-size:11px;"}
 GitHub repository associated to the present course website: <https://github.com/feracotommaso/Personality-and-individual-differences>
