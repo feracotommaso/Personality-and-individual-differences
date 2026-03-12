@@ -5,14 +5,15 @@ author: "Tommaso Feraco"
 bibliography: references.bib
 csl: nature.csl
 # include-in-header: assets/header.html
-format: 
-  html:
-    self-contained: true
-    toc: true   
-    toc-depth: 3 
-    toc-expand: 3 
-    code-fold: false 
-    message: false
+format: pdf
+# 
+#   html:
+#     self-contained: true
+#     toc: true   
+#     toc-depth: 3 
+#     toc-expand: 3 
+#     code-fold: false 
+#     message: false
 #    css: "assets/custom.css"
 editor: visual
 ---
@@ -218,7 +219,7 @@ Il potere predittivo di una variabile (età) al netto di un’altra (altezza) è
 <br><br>
 
 ::: {style="font-size:11px;"}
-GitHub repository associated to the present course website: <https://github.com/tferaco93/Personality-and-individual-differences>
+GitHub repository associated to the present course website: <https://github.com/feracotommaso/Personality-and-individual-differences>
 
 Many thanks to Nicole Casali and Chiara Meneghetti for writing with me a different chapter on SEB skills [@sini2024].
 :::
