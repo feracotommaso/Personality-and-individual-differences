@@ -42,7 +42,7 @@ Puoi trovare qui le slide con i risultati visti in classe:
 -   **Big Five e EPI** - [2025](https://feracotommaso.github.io/Personality-and-individual-differences/results/2025/1.RisultatiBF.html) - [2026](https://feracotommaso.github.io/Personality-and-individual-differences/results/2026/1.RisultatiBF.html)
 -   **Time perspective** - [2025](https://feracotommaso.github.io/Personality-and-individual-differences/results/2025/2.RisultatiZimbardo.html) - [2026](https://feracotommaso.github.io/Personality-and-individual-differences/results/2026/2.RisultatiZimbardo.html)
 -   **Personality skills** - [2025](https://feracotommaso.github.io/Personality-and-individual-differences/results/2025/1.RisultatiSkills.html) - [2026](https://feracotommaso.github.io/Personality-and-individual-differences/results/2026/1.RisultatiSkills.html)
--   **BIS-BAS** - [2026](https://feracotommaso.github.io/Personality-and-individual-differences/results/2026/1.RisultatiBISBAS.html)
+-   **BIS-BAS** - [2026](https://feracotommaso.github.io/Personality-and-individual-differences/results/2026/3.RisultatiBISBAS.html)
 
 ------------------------------------------------------------------------
 
